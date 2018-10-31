@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('PT Sans Bold'), url(./fonts/PTS75F_W.woff) format('woff');
+  unicode-range: U+1055, U+1088, U+1080, U+1074, U+1077, U+1090, U+44, U+32,
+    U+1043, U+1077, U+1085, U+1072, U+1076, U+1080, U+1081, U+33;
+}
+@font-face {
+  font-family: 'PT Sans Narrow';
+  font-weight: 700;
+  src: local('PT Sans Narrow Bold'), url(./fonts/PTN77F_W.woff) format('woff');
+  unicode-range: U+002B, U+0031, U+0039, U+0032, U+0033;
+}
